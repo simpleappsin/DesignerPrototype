@@ -1,5 +1,5 @@
 # DesignerPrototype
-<h2 style="Color: Green">
+<h4 style="Color: Green">
 
   _____           _                          _____        __ _                          
  |  __ \         (_)                        / ____|      / _| |                         
@@ -10,4 +10,4 @@
                      __/ |                                                              
                     |___/                                                               
                                                                     ▀               
-</h2>
+</h4>
