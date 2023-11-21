@@ -11,3 +11,8 @@ I have a second plan in my mind, I might change it to WPF if I see that it is im
 <p>I started to develop this project on 11/20/2023 and at the moment it is very early for me to say anything about the early access or publish date of the project, but I believe I can share early access for people who want to try the software next year around June 2024.</p>
 <h2>IMAGES</h2>
 <img src="designer software.png">
+<img src="designer code.png">
+<h2>Developers</h2>
+<ul>
+  <li>Ata Yigit Uzay Ustundag (21)</li>
+</ul>
